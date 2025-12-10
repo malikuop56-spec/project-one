@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 .main{
+    margin: auto;
     width: 3063px;
     height: 9522px;
     border: 2px solid;
